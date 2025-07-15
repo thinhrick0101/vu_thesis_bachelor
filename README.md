@@ -44,6 +44,8 @@ vu_thesis/
 
 
 
+---
+
 ## Getting Started
 
 ### 1. Environment Setup
