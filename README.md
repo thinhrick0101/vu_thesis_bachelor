@@ -43,7 +43,7 @@ vu_thesis/
   - `make_silhouette_plot_thesis.py`: Performs clustering analysis on attention head metrics and generates silhouette plots for thesis figures.
 
 ---
-
+```
 ### Getting Started
 
 ### 1. Environment Setup
