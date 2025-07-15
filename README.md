@@ -42,14 +42,9 @@ vu_thesis/
   - `head_metrics.csv`: Output file containing extracted attention head metrics.
   - `make_silhouette_plot_thesis.py`: Performs clustering analysis on attention head metrics and generates silhouette plots for thesis figures.
 
-- **models/**  
-  Stores trained model checkpoints.
-  - `dense_char_transformer.pt`: Checkpoint for the dense transformer model.
-  - `sparse_byte_transformer.pt`: Checkpoint for the sparse transformer model.
-
 ---
 
-## Getting Started
+### Getting Started
 
 ### 1. Environment Setup
 
